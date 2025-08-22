@@ -1,0 +1,12 @@
+#inlcude<stdio.h>
+#include<conio.h>
+
+
+int main()
+{
+	int no
+	Printf("Enter the no:");
+	scanf("%d",&no);
+
+	printf("NO is %d",no);
+}
